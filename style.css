@@ -6,7 +6,7 @@ body {
   color: #f5f5f5;
   background-color: #f2f4f6;
   background-image: url("img/Иллюстрация_без_названия.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: top center;
   font-family: 'Caveat', cursive;
 }
